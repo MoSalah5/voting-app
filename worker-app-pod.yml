@@ -1,7 +1,7 @@
 ---
   apiVersion: v1
   kind: Pod
-  metadate:
+  metadata:
     name: worker-app-pod
     labels:
       name: worker-app-pod
