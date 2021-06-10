@@ -1,7 +1,7 @@
 ---
   apiVersion: v1
   kind: Pod
-  metadate:
+  metadata:
     name: voting-app-pod
     labels:
       name: voting-app-pod
